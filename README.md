@@ -28,6 +28,10 @@
 
 * [The real 10 algorithms that dominate our world](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 
+## Blockchain & Cryptocurrency
+
+* [Curated collection of blockchain & cryptocurrency links.](https://github.com/coinpride/CryptoList)
+
 ## Tools for productivity
 
 * [micro](https://github.com/zyedidia/micro): A modern and intuitive terminal-based text editor
