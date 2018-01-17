@@ -41,6 +41,10 @@
 
 * [Entrepreneurship for Kids](https://www.udemy.com/entrepreneurship-for-kids/): Introduce your kid to a creative life of entrepreneurship
 
+## Newsletter
+
+* [JavaScript Rising Stars](https://risingstars.js.org)
+
 ## Books to read
 
 * [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X/)
