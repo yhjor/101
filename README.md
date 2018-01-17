@@ -12,6 +12,7 @@
 
 ## CSS
 
+* [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 * [FLEXBOX FROGGY](http://flexboxfroggy.com/): Learning Flexbox with a game
 * [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
 * [GRID GARDEN](http://cssgridgarden.com/): Learning CSS Grid with a game
