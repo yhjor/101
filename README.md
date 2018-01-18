@@ -41,6 +41,10 @@
 
 * [Entrepreneurship for Kids](https://www.udemy.com/entrepreneurship-for-kids/): Introduce your kid to a creative life of entrepreneurship
 
+## Cheatsheet
+
+* [Javascript Style Guide](https://github.com/airbnb/javascript)
+
 ## Newsletter
 
 * [JavaScript Rising Stars](https://risingstars.js.org)
