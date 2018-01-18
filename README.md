@@ -32,6 +32,7 @@
 ## Algorithm
 
 * [The real 10 algorithms that dominate our world](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
+* [Introduction to Trees](https://www.youtube.com/watch?v=qH6yxkw0u78)
 
 ## Blockchain & Cryptocurrency
 
