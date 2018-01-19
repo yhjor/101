@@ -46,6 +46,10 @@
 
 * [Entrepreneurship for Kids](https://www.udemy.com/entrepreneurship-for-kids/): Introduce your kid to a creative life of entrepreneurship
 
+## Article for life
+
+* [How To Develop Mastery, Make Millions, and Be Happy](https://journal.thriveglobal.com/how-to-develop-mastery-make-millions-and-be-happy-cd9743c40d12)
+
 ## Cheatsheet
 
 * [CSS Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
