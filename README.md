@@ -43,6 +43,10 @@
 
 * [micro](https://github.com/zyedidia/micro): A modern and intuitive terminal-based text editor
 
+## Learning Tools
+
+* [The Jupyter Notebook](http://jupyter.org/): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
+
 ## Entrepreneurship
 
 * [Entrepreneurship for Kids](https://www.udemy.com/entrepreneurship-for-kids/): Introduce your kid to a creative life of entrepreneurship
