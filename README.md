@@ -13,6 +13,7 @@
 ## CSS
 
 * [Understanding CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units)
+* [How to create a fully responsive navbar with Flexbox](https://medium.freecodecamp.org/how-to-create-a-fully-responsive-navbar-with-flexbox-a4435d175dd3)
 * [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 * [FLEXBOX FROGGY](http://flexboxfroggy.com/): Learning Flexbox with a game
 * [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
