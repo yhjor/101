@@ -17,6 +17,7 @@
 * [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 * [FLEXBOX FROGGY](http://flexboxfroggy.com/): Learning Flexbox with a game
 * [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
+* [CSS Grid layout — crossed sections](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725)
 * [GRID GARDEN](http://cssgridgarden.com/): Learning CSS Grid with a game
 * [CSS Grid Explained in 7 Minutes (with diagrams and code)](https://www.youtube.com/watch?v=ojKbYz0iKQE)
 
