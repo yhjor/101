@@ -3,6 +3,7 @@
 ## General
 
 * [The most hearted Pens of 2017](https://codepen.io/2017/popular/pens/)
+* [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
 ## Next Generation Web Framework
 
@@ -20,6 +21,7 @@
 * [CSS Grid layout — crossed sections](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725)
 * [GRID GARDEN](http://cssgridgarden.com/): Learning CSS Grid with a game
 * [CSS Grid Explained in 7 Minutes (with diagrams and code)](https://www.youtube.com/watch?v=ojKbYz0iKQE)
+* [How to make responsiveness super simple with CSS Variables](https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f)
 
 ## Javascript
 
