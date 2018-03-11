@@ -2,6 +2,7 @@
 
 ## General
 
+* [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [The most hearted Pens of 2017](https://codepen.io/2017/popular/pens/)
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
@@ -13,6 +14,7 @@
 
 ## CSS
 
+* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 * [Understanding CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units)
 * [How to create a fully responsive navbar with Flexbox](https://medium.freecodecamp.org/how-to-create-a-fully-responsive-navbar-with-flexbox-a4435d175dd3)
 * [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
