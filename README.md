@@ -5,6 +5,7 @@
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [The most hearted Pens of 2017](https://codepen.io/2017/popular/pens/)
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
+* [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 
 ## Next Generation Web Framework
 
