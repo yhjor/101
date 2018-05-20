@@ -34,6 +34,7 @@
 * [math-as-code](https://github.com/Jam3/math-as-code): a cheat-sheet for mathematical notation in code form
 * [Strings and Template Literals in ES6](http://www.zsoltnagy.eu/strings-and-template-literals-in-es6/): Learning string manipulation with Javascript
 * [Array Explorer and Object Explorer](https://css-tricks.com/array-explorer-object-explorer/): Understanding array and object
+* [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 
 ## Node.js
 
