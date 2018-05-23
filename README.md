@@ -6,6 +6,7 @@
 * [The most hearted Pens of 2017](https://codepen.io/2017/popular/pens/)
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 * [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
+* [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 ## Next Generation Web Framework
 
