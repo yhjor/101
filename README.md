@@ -7,7 +7,7 @@
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 * [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
-# [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185)
+* [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 
 ## Next Generation Web Framework
 
