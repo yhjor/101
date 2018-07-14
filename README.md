@@ -32,6 +32,7 @@
 
 ## Javascript
 
+* [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_125)
 * [Popmotion](https://popmotion.io/): Learning animation and interaction with Javascript
 * [math-as-code](https://github.com/Jam3/math-as-code): a cheat-sheet for mathematical notation in code form
 * [Strings and Template Literals in ES6](http://www.zsoltnagy.eu/strings-and-template-literals-in-es6/): Learning string manipulation with Javascript
