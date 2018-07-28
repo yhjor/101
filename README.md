@@ -9,11 +9,6 @@
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 
-## Next Generation Web Framework
-
-* [Reason](https://reasonml.github.io/): Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems. By Facebook.
-* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
-* [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
 
 ## CSS
 
@@ -33,6 +28,7 @@
 
 ## Javascript
 
+* [THE DEFINITIVE GUIDE TO JAVASCRIPT DATES](https://flaviocopes.com/javascript-dates/)
 * [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_125)
 * [Popmotion](https://popmotion.io/): Learning animation and interaction with Javascript
 * [math-as-code](https://github.com/Jam3/math-as-code): a cheat-sheet for mathematical notation in code form
