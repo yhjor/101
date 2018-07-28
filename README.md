@@ -3,16 +3,14 @@
 ## General
 
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-* [The most hearted Pens of 2017](https://codepen.io/2017/popular/pens/)
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
-* [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
-* [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 
 
-## CSS
+## HTML & CSS
 
 ### Basics
+* [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 * [https://zendev.com/ultimate-guide-to-learning-css.html](https://zendev.com/ultimate-guide-to-learning-css.html)
 * [Learn the basics of CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets you can understand in 30 seconds or less.
