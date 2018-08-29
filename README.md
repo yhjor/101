@@ -46,6 +46,7 @@
 * [Array Explorer and Object Explorer](https://css-tricks.com/array-explorer-object-explorer/): Understanding array and object
 * [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript)
 * [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
+* [Level up your .filter game](https://css-tricks.com/level-up-your-filter-game/)
 
 ### Callback, Promise, Async/Await
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
