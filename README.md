@@ -26,6 +26,7 @@
 * [GRID GARDEN](http://cssgridgarden.com/): Learning CSS Grid with a game
 * [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 * [CSS Grid Explained in 7 Minutes (with diagrams and code)](https://www.youtube.com/watch?v=ojKbYz0iKQE)
+* [Grid by Example](https://gridbyexample.com/)
 
 ### Responsive Design
 * [How to create a fully responsive navbar with Flexbox](https://medium.freecodecamp.org/how-to-create-a-fully-responsive-navbar-with-flexbox-a4435d175dd3)
