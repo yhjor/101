@@ -48,6 +48,7 @@
 * [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript)
 * [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 * [Level up your .filter game](https://css-tricks.com/level-up-your-filter-game/)
+* [Searching and sorting text with diacritical marks in JavaScript](https://thread.engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2)
 
 ### Callback, Promise, Async/Await
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
