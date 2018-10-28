@@ -42,6 +42,7 @@
 
 ### Math
 * [math-as-code](https://github.com/Jam3/math-as-code): a cheat-sheet for mathematical notation in code form
+* [JavaScript Essentials: Numbers and Math](https://codeburst.io/javascript-essentials-numbers-and-math-72655b2e5edd)
 
 ### Array and Object
 * [Array Explorer and Object Explorer](https://css-tricks.com/array-explorer-object-explorer/): Understanding array and object
@@ -69,6 +70,11 @@
 ## Mobile App with React Native
 
 * [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
+
+## Testing
+
+### End to End Testing
+* [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)
 
 ## Algorithm
 
