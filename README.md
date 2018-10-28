@@ -56,6 +56,8 @@
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 * [Flow Control in Modern JS: Callbacks to Promises to Async/Await](https://www.sitepoint.com/flow-control-callbacks-promises-async-await/)
 
+### Version Control
+* [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 
 ### Node.js
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
