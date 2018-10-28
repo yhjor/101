@@ -49,6 +49,7 @@
 * [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 * [Level up your .filter game](https://css-tricks.com/level-up-your-filter-game/)
 * [Searching and sorting text with diacritical marks in JavaScript](https://thread.engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2)
+* [Slice, Splice and Split](https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae)
 
 ### Callback, Promise, Async/Await
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
