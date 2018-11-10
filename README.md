@@ -34,6 +34,9 @@
 
 ## Javascript
 
+### Console
+* [Beyond Console Log](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8)
+
 ### String
 * [Strings and Template Literals in ES6](http://www.zsoltnagy.eu/strings-and-template-literals-in-es6/): Learning string manipulation with Javascript
 
