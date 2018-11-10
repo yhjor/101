@@ -70,6 +70,7 @@
 
 ### Others
 * [Javascript Style Guide](https://github.com/airbnb/javascript)
+* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 
 
 ## Mobile App with React Native
