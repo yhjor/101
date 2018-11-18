@@ -65,6 +65,7 @@
 ### Node.js
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 * [The Definitive NodeJs Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+* [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 
 ### GraphQL
 * [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/): 
