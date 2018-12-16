@@ -61,6 +61,7 @@
 
 ### Version Control
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+* [Learn Git Branch](https://learngitbranching.js.org/)
 
 ### Node.js
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
