@@ -39,6 +39,7 @@
 
 ### String
 * [Strings and Template Literals in ES6](http://www.zsoltnagy.eu/strings-and-template-literals-in-es6/): Learning string manipulation with Javascript
+* [Convert a string to a number](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
 
 ### Date
 * [THE DEFINITIVE GUIDE TO JAVASCRIPT DATES](https://flaviocopes.com/javascript-dates/)
