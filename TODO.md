@@ -13,3 +13,6 @@
 - https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks
 - https://blog.logrocket.com/choosing-between-babel-and-typescript-4ed1ad563e41
 - https://github.com/Swizec/useDimensions
+- https://houssein.me/progressive-react
+- https://victorzhou.com/blog/properly-size-images/
+- https://itnext.io/you-may-need-laziness-in-your-javascript-f03e8a2d4629
