@@ -58,6 +58,9 @@
 * [15 Useful JS Examples of map(), reduce() and filter()](https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 * [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
 
+### Functions
+* [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
+
 ### Callback, Promise, Async/Await
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 * [Flow Control in Modern JS: Callbacks to Promises to Async/Await](https://www.sitepoint.com/flow-control-callbacks-promises-async-await/)
