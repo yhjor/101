@@ -1,5 +1,6 @@
 # TODO
 
+- https://medium.com/@boyney123/my-experience-moving-from-enzyme-to-react-testing-library-5ac65d992ce
 - https://github.com/donnemartin/system-design-primer
 - https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 - https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks
