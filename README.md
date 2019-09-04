@@ -83,7 +83,7 @@
 ### Others
 * [Javascript Style Guide](https://github.com/airbnb/javascript)
 * [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
-
+* [Easy functional programming techniques in TypeScript for everyone](https://dev.to/deepu105/easy-functional-programming-techniques-in-typescript-for-everyone-1bl2)
 
 ## Mobile App with React Native
 
